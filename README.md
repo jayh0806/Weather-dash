@@ -17,4 +17,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
+I struggled with this greatly went to some friends to get some help. Thanks to them for helping it look so good. 
+
 ![screenshot](https://user-images.githubusercontent.com/107897337/189492623-70fe2c14-3f90-4d2e-953d-1ac9275ccac4.jpg)
